@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input[type='text'],
+input[type='email'],
+input[type='number'],
+input[type='data'] {
+  display: block;
+  width: 400px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42;
+  color: black;
+  background: none;
+  border: 1px solid grey;
+}
